@@ -8,16 +8,16 @@ Este script de Python utiliza Selenium para hacer un web scraping de la página 
 
 ---
 ## Requerimientos
---Python 3
---Selenium
---Google Chrome
---wget
--Instalación
--Instalar Python 3: https://www.python.org/downloads/
--Instalar Selenium: pip install selenium
--Descargar Google Chrome: https://www.google.com/chrome/
--Descargar y guardar el archivo chromedriver en la misma carpeta del script desde: https://sites.google.com/a/chromium.org/chromedriver/downloads
--Instalar wget: pip install wget
+- Python 3
+- Selenium
+- Google Chrome
+- wget
+- Instalación
+- Instalar Python 3: https://www.python.org/downloads/
+- Instalar Selenium: pip install selenium
+- Descargar Google Chrome: https://www.google.com/chrome/
+- Descargar y guardar el archivo chromedriver en la misma carpeta del script desde: https://sites.google.com/a/chromium.org/chromedriver/downloads
+- Instalar wget: pip install wget
 ---
 ## Uso
 Ejecutar el script tickantel_web_scraping.py
