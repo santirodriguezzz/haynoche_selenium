@@ -20,7 +20,7 @@ Este script de Python utiliza Selenium para hacer un web scraping de la página 
 - Instalar wget: pip install wget
 ---
 ## Uso
-Ejecutar el script tickantel_web_scraping.py
+Ejecutar el script bot.ipynb
 Se abrirá una ventana de Chrome y se cargará la página web de Tickantel.
 El script seleccionará el primer teatro en la lista, realizará un scroll hasta el final de la página, y obtendrá las URL de las imágenes de los teatros.
 Las imágenes serán guardadas en un directorio llamado "Scrapeo", creado automáticamente en la misma carpeta del script.
